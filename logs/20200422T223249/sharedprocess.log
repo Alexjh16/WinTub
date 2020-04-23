@@ -1,0 +1,3 @@
+[2020-04-22 22:32:53.829] [sharedprocess] [info] main {"machineId":"be6f36d1ce213b10761afc15337a700ba6aa7c51453c5207e14aa81cc54732ad","windowId":2}
+[2020-04-22 22:32:53.884] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/Github/WinTub/User/snippets'
+[2020-04-22 22:32:54.678] [sharedprocess] [info] Deleted from disk tm.black /root/.vscode/extensions/tm.black-1.0.0
